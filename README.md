@@ -7,6 +7,8 @@ The combination of certainty and relevance combined with the combination of brea
 This makes a distinction between how much of your knowledge seems to be related to something and how much
 do you know about that something. Both take introspection and quantities come from the introspection alone.
 
+Also, in general, the philosophy of expert-engine is that making decisions with something is the best way to learn it.
+
 ## Algorithm
 
 1. Choose a topic, concept, or something you know about
