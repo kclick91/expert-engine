@@ -8,4 +8,5 @@ The queue checks if there is an easy opportunity for learning and if so integrat
 otherwise send A to the stack and remove when A is reached and learned. This gives time for more concepts to be 
 learned to make it easier for the concepts at the bottom of the stack that will be revisited later to be learned.
 Easier means faster. A max size could be decided for both the queue and stack so it is not overwhelming 
-in the queue and nothing gets buried in the stack.
+in the queue and nothing gets buried in the stack. Also, the bottom of the stack could be connected to the front of the 
+queue so as to check for new ways to understand the concept.
