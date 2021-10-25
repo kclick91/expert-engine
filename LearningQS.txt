@@ -10,3 +10,7 @@ learned to make it easier for the concepts at the bottom of the stack that will 
 Easier means faster. A max size could be decided for both the queue and stack so it is not overwhelming 
 in the queue and nothing gets buried in the stack. Also, the bottom of the stack could be connected to the front of the 
 queue so as to check for new ways to understand the concept.
+
+So overall the first structure is a queue to the mind or a queue to the second structure depending on how easy something is to learn. 
+The second structure is a stack to the mind but a queue to the first structure forming a 
+cycle back to the first structure.
