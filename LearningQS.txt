@@ -2,7 +2,7 @@
 
 An algorithm for learning concepts.
 First,start with a queue where the First in are First out. 
-Connect the queue to a stack where the Last in is First out.
+Connect the queue to a stack(a stack to the mind but a queue to the queue) where the Last in is First out.
 
 The queue checks if there is an easy opportunity for learning and if so integrate concept A with your mind, 
 otherwise send A to the stack and remove when A is reached and learned. This gives time for more concepts to be 
