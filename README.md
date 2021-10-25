@@ -9,16 +9,20 @@ do you know about that something. Both take introspection and quantities come fr
 
 Also, in general, the philosophy of expert-engine is that making decisions with something is the best way to learn it.
 
+LearningQS is used to choose what to learn.
+
 ## Algorithm
 
-1. Choose a topic, concept, or something you know about
-2. Understand the breadth of certainty. Ex. How many cities do you know about?
-3. Understand the breadth of relevance. Ex. How much of your knowledge is related to cities?
-4. Understand the depth of certainty. Ex. How much do you know about specific cities or a specific city, e.g. your hometown?
-5. Understand the depth of relevance. Ex. How much of your knowledge is related to specific cities or a specific city, e.g. your hometown?
-6. Adjust each as needed.
-7. Adjust external decision making as needed.
-8. Repeat steps 2-8.
+1. LearningQS
+2. Choose a topic, concept, or something you know about
+3. Understand the breadth of certainty. Ex. How many cities do you know about?
+4. Understand the breadth of relevance. Ex. How much of your knowledge is related to cities?
+5. Understand the depth of certainty. Ex. How much do you know about specific cities or a specific city, e.g. your hometown?
+6. Understand the depth of relevance. Ex. How much of your knowledge is related to specific cities or a specific city, e.g. your hometown?
+7. Adjust each as needed.
+8. Adjust external decision making as needed.
+9. Repeat steps 2-8 until concept is learned.
+10. Return to LearningQS
 
       Certainty     /    Relevance
       
