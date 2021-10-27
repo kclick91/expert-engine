@@ -2,16 +2,8 @@
 A Human Algorithm for Learning and Thinking
 
 ## Philosophy
-
-Continuous merging of human thinking and computing.
-
-The combination of certainty and relevance combined with the combination of breadth and depth. 
-This makes a distinction between how much of your knowledge seems to be related to something and how much
-do you know about that something. Both take introspection and quantities come from the introspection alone.
-
-Also, in general, the philosophy of expert-engine is that making decisions with something is the best way to learn it.
-
-LearningQS is used to choose what to learn.
+ 
+Learn from computing in order to work with the limitations of wetware.
 
 ## Algorithm
 
