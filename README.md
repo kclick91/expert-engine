@@ -3,7 +3,7 @@ A Human Algorithm for Learning and Thinking
 
 ## Philosophy
  
-Learn from computing in order to work with the limitations of wetware.
+Learn from the hardware and software limitations of computing in order to work with the limitations of wetware.
 
 ## Algorithm
 
