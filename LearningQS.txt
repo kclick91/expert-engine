@@ -14,3 +14,5 @@ queue so as to check for new ways to understand the concept.
 So overall the first structure is a queue to the mind or a queue to the second structure depending on how easy something is to learn. 
 The second structure is a stack to the mind but a queue to the first structure forming a 
 cycle back to the first structure.
+
+Number of cycles of a concept is proportional to reward amount.
