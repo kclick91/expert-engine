@@ -37,11 +37,15 @@ Breadth  |    Quantity  |    Quantity   |
 8. Understand the depth of relevance of Java and expand on it.
 9. Adjust external decision making
 10. Repeat 4 - 9 as necessary
+---Reward---
 11. Choose C++ to learn(Similar to 5-8 but for C++)
 12. Add it to the second structure because it is taking a long time
 13. 5 - 8 for Python
+---Reward---
 14. Add C to first structure(which ends up helping with C++)
 15. 5 - 8 for C
+---Reward---
 16. Send C++ to first structure
 17. 5 - 8 for C++
+---Reward---
 18. Continue...
