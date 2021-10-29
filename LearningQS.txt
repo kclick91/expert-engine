@@ -15,4 +15,6 @@ So overall the first structure is a queue to the mind or a queue to the second s
 The second structure is a stack to the mind(concepts being fresh to the mind) but a queue to the first structure forming a 
 cycle back to the first structure.
 
+Anything that comes up in the mind that is not fully understood can be sent to the first structure.
+
 Number of cycles of a concept is proportional to reward amount.
