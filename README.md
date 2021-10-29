@@ -5,6 +5,17 @@ A Human Algorithm for Learning and Thinking
  
 Learn from the hardware and software limitations of computing in order to work with the limitations of wetware.
 
+## Limitations of Wetware
+1. Cannot multitask
+2. Limited working memory along with limited memory
+3. Speed of problem solving
+4. Speed of learning
+5. Biases
+6. Fallacies
+
+* Possibly, conservation of connectivity
+* Possibly, physical constraints
+
 ## Algorithm
 
 1. LearningQS
