@@ -3,7 +3,8 @@ A Human Algorithm for Learning and Thinking
 
 ## Philosophy
  
-Learn from the hardware and software limitations of computing in order to work with the limitations of wetware.
+1. Learn from the hardware and software limitations of computing in order to work with the limitations of wetware. 
+2. Work with the different layers of abstraction in the mind as well as the computer.
 
 ## Limitations of Wetware
 1. Cannot multitask
