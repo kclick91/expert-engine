@@ -20,9 +20,10 @@ public class ee {
 
     public void InsertInStructureTwo(String toReturnTo)
     {
-        /*
-        Structure One loses one and all move forward one
-         */
+        for (int i = structure.length - 1; i > 0; i--)
+        {
+            structure[i] = structure[i - 1];
+        }
         structureTwo[countST - 1] = toReturnTo;
         countST = countST + 1;
     }
@@ -33,6 +34,7 @@ public class ee {
         Structure One gains one and each String in structure one moves forward one
          and each String in Structure Two moves down one
          */
+        
     }
 
     public void SendToMind()
