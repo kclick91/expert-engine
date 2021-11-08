@@ -6,6 +6,28 @@ A Human Algorithm for Learning and Thinking
 1. Learn from the hardware and software limitations of computing in order to work with the limitations of wetware. 
 2. Work with the different layers of abstraction in the mind as well as the computer.
 
+## Limitations of Hardware and Software
+1. Storage
+2. Processing Speed
+3. Parallelism
+4. Resources
+5. The Halting Problem 
+
+Explanation of Halting Problem with help from YouTube:
+
+There are four Programs A, K, M, and Q.
+Input of Program A is Program K and an Input I.
+Output of A decides whether Program K will halt or loop forever based on I.
+Input of Program M is the boolean return from Program A.(True that K
+halts or False meaning K does not halt)
+Output of Program M is the negation of Program A.
+
+All three programs connected in that sequence is program Q.
+If Program Q is identical to Program K and I then Program A will be wrong
+because it will always negate Q.
+
+If Q, K, and I are identical programs then Program A will have to negate Q.
+
 ## Limitations of Wetware
 1. Cannot multitask
 2. Limited working memory along with limited memory
